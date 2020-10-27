@@ -1,1 +1,2 @@
-# The-complete-Web-development-BootCamp course (Dr.Angela Yu)
+
+#### Solutions for the complete web development bootcamp course by Dr.Angela Yu, the App Brewery.
